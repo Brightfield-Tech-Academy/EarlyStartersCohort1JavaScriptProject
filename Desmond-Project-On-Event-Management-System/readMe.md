@@ -11,3 +11,5 @@ App to manage events by
 - Append event to aready exiting events to the UI.
 
 
+## where I deployed
+Click here to visit the site[Event Management System](https://manage-events-sys.netlify.app/)
